@@ -1,16 +1,13 @@
-## Hi there 👋
+## **Hi there, I'm Lucas!** 👋
+🚀 **Back-End Developer | Cloud Solutions Enthusiast | Problem Solver**
 
-<!--
-**lucasbm92/lucasbm92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Passionate about building scalable and efficient software solutions using **C#, Python, and NodeJS**.
+📊 Experienced with **PostgreSQL, MSSQL, MongoDB, and MySQL** for robust database management.
+☁️ Specialized in **Google Cloud Compute Engine architecture** for cloud-based solutions.
+🛠️ Skilled in **ASP.NET, FastAPI, Docker, and GitHub**, bringing full-stack capabilities to development projects.
+🌎 Fluent in **English**.
+💡 Strong problem-solving mindset, with a focus on analytical thinking, teamwork, and adaptability.
 
-Here are some ideas to get you started:
+🔗 **Let’s build something amazing together!** Check out my projects & Connect with me on [LinkedIn](https://linkedin.com/in/lucasbm92).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 **Check out my projects on GitHub:** [github.com/lucasbm92](https://github.com/lucasbm92)
