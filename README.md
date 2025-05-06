@@ -8,6 +8,6 @@
 🌎 Fluent in **English**.  
 💡 Strong problem-solving mindset, with a focus on analytical thinking, teamwork, and adaptability.  
 
-🔗 **Let’s build something amazing together!** Connect with me on [LinkedIn](https://linkedin.com/in/lucasbm92).
+🔗 **Let’s build something amazing together!**
 
-📌 **Check out my projects on GitHub:** [github.com/lucasbm92](https://github.com/lucasbm92)
+📌 **Connect with me on LinkedIn:** [linkedin.com/in/lucasbm92](https://linkedin.com/in/lucasbm92).
