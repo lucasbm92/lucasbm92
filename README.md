@@ -10,4 +10,4 @@
 
 🔗 **Let’s build something amazing together!**
 
-📌 **Connect with me on LinkedIn:** [linkedin.com/in/lucasbm92](https://linkedin.com/in/lucasbm92).
+📌 **Connect with me on LinkedIn:** [linkedin.com/in/lucasbm92](https://linkedin.com/in/lucasbm92)
